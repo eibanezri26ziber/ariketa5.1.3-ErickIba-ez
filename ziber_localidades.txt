@@ -1,1 +1,5 @@
+Urnieta,Andoain,Irun,Beasain,Donostia,Pasaia,Lasarte-Oria,Oiartzun,Lesaka,Ordizia,Hondarribia,Errenteria y Hernani
+
 Urnieta,Andoain,Irun,Beasain,Donostia,Pasaia,Lasarte-Oria,Oiartzun,Lesaka,Ordizia,Hondarribia,Errenteria,Hernani,Zarautz,Getaria y Mutriku
+Errenteria,Goierri.
+
