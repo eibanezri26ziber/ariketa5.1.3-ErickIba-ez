@@ -1,4 +1,2 @@
-Urnieta,Andoain,Irun,Beasain,Donostia - Gipuzkoa,Pasaia - Gipuzkoa,Lasarte-Oria,Oiartzun,Lesaka,Ordizia,Hondarribia,Errenteria y Hernani.
-Donostia (capital-a)
-Pasaia(costa-a)
+Urnieta,Andoain,Irun,Beasain,Donostia - Gipuzkoa(capital)(capital-a),Pasaia(costa)(costa-a) - Gipuzkoa,Lasarte-Oria,Oiartzun,Lesaka,Ordizia,Hondarribia,Errenteria y Hernani.
 Montaña: Tolosa, Ordizia, Azpeitia.
